@@ -5,4 +5,4 @@
 //The point of the project was to us a Red Black Search Tree to seperate songs by duration
 
 //The point of the project is application of the red black search tree geric that is made into a numerical concrete class. 
-//My main work classes are https://github.com/sanjayT1903/oldProject1.git
+//My main work classes are songSearchFD as I was part Song searcher,RedBlackTree, and SongSearchBD. Our grpup was missing an FD in this project.
